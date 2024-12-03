@@ -51,9 +51,15 @@ The Role-Based Task Manager UI is a robust application built using the MERN stac
 
    # **Innovative Features**
    
-   1. Kanban Boards
-   2. Notifications, Trash and Recover
-   3. Bug Tracker
+
+1. Real-Time Notifications: Keep users informed about task updates instantly.
+2. Trash File: Recover deleted tasks effortlessly.
+3. Password Reset Functionality: Simplified and secure password recovery.
+4. Intuitive Kanban Board: Assign and manage tasks visually within projects.
+5. Bug Report Editing: Streamline tracking and resolution of project issues.
+6. Interactive and User-Friendly UI: Enhance user experience with responsive and engaging design.
+7. Seamless Project Tracking: Efficiently manage tasks and projects all in one place.
+This combination of features makes the application an all-in-one solution for efficient and interactive project management.
 
 # **Technologies Used**
 
