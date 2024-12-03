@@ -27,7 +27,7 @@ The Role-Based Task Manager UI is a robust application built using the MERN stac
 1. Disable or activate user accounts.
 2. Permanently delete or trash tasks.
 
-# **User Features*
+# **User Features**
 ## **Task Interaction**
 1. View detailed task information.
 2. View Only Project Section
@@ -36,7 +36,7 @@ The Role-Based Task Manager UI is a robust application built using the MERN stac
 5. Both These features are performed on projects
 
 # **General Features**
-## **Authentication and Authorization
+## **Authentication and Authorization**
 
 1. User login with secure authentication.
 2. Role-based access control.
